@@ -21,7 +21,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 2.  GIT Rebase [1]
 3.  Docker Images [1]
 #### Things we want to know next**
-1.  
+1.  Teraform [1]
 2.  
 3. 
 
