@@ -26,6 +26,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 1.  GIT Stash [2]
 2.  GIT Rebase [1]
 3.  Docker Images [1]
+4.  Most development processes outside of this class besides some system analysis and design
 #### Things we want to know next**
 1.  Teraform [1]
 2.  Cloud Deployment [1]
