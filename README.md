@@ -28,9 +28,10 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Docker Images [1]
 4.  Most development processes outside of this class besides some system analysis and design [1]
 #### Things we want to know next**
-1.  Teraform [1]
-2.  Cloud Deployment [1]
-3.  Elastic Search Index [1]
+1.  Teraform [2]
+2.  Cloud Deployment [2]
+3.  Elastic Search Index [2]
+4.  SQL [1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
