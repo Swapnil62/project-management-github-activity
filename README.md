@@ -19,6 +19,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 4.  How to make SSH on Macbook and add it to Github [1]
 5.  Github repository [1]
 6.  Git checkout [1]
+7.  Git status [1]
 
 #### Things we don't understand
 1.  GIT Stash [1]
