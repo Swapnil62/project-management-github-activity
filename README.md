@@ -18,6 +18,8 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 3.  Linux Directory listing [1]
 4.  How to make SSH on Macbook and add it to Github [1]
 5.  Github repository [1]
+6.  Git checkout [1]
+
 #### Things we don't understand
 1.  GIT Stash [1]
 2.  GIT Rebase [1]
