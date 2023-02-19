@@ -23,7 +23,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 8.  Git commit [1]
 
 #### Things we don't understand
-1.  GIT Stash [1]
+1.  GIT Stash [2]
 2.  GIT Rebase [1]
 3.  Docker Images [1]
 #### Things we want to know next**
