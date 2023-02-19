@@ -15,11 +15,15 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand**
 1.  Python [1]
 2.  Docker Installation [1]
-3. Linux Directory listing [1]
+3.  Linux Directory listing [1]
 #### Things we don't understand
-
+1.  GIT Stash [1]
+2.  
+3.  
 #### Things we want to know next**
-
+1.  
+2.  
+3. 
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
